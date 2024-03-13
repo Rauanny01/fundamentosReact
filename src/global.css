@@ -1,0 +1,12 @@
+:root {
+    --gray-800: #333;
+    --gray-600: #666;
+    --green-500: #228B22;
+    --white: #ffffff;
+}
+
+body {
+    background: #121214;
+    color: #fff;
+    
+}
